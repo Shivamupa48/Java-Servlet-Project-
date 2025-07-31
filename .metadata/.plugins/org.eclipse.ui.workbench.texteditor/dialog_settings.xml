@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<list key="findhistory">
+			<item value="&lt;%= request.getParameter("/>
+			<item value="&lt;input type=&quot;text&quot; placeholder=&quot;Enter City Name&quot; id=&quot;searchInput&quot; value=&quot;New Delhi&quot; name=&quot;city&quot;"/>
+			<item value="&lt;%= request.getParam"/>
+			<item value="ispatcher.forward(request, respons"/>
+			<item value="&lt;input type=&quot;text&quot; placeholder=&quot;Enter City Name&quot; id=&quot;searchInput&quot; value=&quot;New Delhi&quot; name=&quot;city&quot;/&gt;"/>
+			<item value="&lt;input type=&quot;text&quot; placeholder=&quot;Enter City Name&quot; id=&quot;searchInput&quot; value=&quot;New Delhi&quot; name=&quot;city&quot;&gt;"/>
+			<item value="RequestDispatcher dispatcher = request.getRequestDispatcher(&quot;index."/>
+			<item value="request.setAttribute(&quot;city&quot;, city);"/>
+			<item value="String city = request.getParameter(&quot;city&quot;);"/>
+			<item value="New Delhi"/>
+			<item value="String city"/>
+			<item value="weather - logo"/>
+			<item value="weather "/>
+			<item value="new delhi"/>
+		</list>
+	</section>
+</section>

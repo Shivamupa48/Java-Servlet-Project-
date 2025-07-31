@@ -1,0 +1,12 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
+<html>
+<head>
+    <title>Result</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Calculation Result</h1>
+    <p>The result is: <strong><%= request.getAttribute("result") %></strong></p>
+    <a href="index.jsp">Try Again</a>
+</body>
+</html>

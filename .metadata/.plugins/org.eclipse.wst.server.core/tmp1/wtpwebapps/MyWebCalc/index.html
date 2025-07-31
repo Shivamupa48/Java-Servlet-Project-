@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Simple Calculator</h1>
+    <form method="post" action="CalculatorServlet">
+        <input type="text" name="num1" placeholder="Enter first number" required />
+        <input type="text" name="num2" placeholder="Enter second number" required />
+        
+        <select name="operator" required>
+            <option value="add">Add (+)</option>
+            <option value="subtract">Subtract (-)</option>
+            <option value="multiply">Multiply (×)</option>
+            <option value="divide">Divide (÷)</option>
+        </select>
+        
+        <button type="submit">Calculate</button>
+    </form>
+
+    <!-- Optional: Show error message if redirected back with error -->
+    <p style="color:red;">
+        <!-- Only works if you're using JSP; HTML alone can't display server-side error -->
+    </p>
+</body>
+</html>

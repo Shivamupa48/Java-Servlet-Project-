@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;My_WeatherApp/src/main/java/MyPackage/MyServelet.java&apos; to &apos;MyServlet.java&apos;" description="Rename resource &apos;MyServelet.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/MyPackage/MyServelet.java" name="MyServlet.java" stamp="1753266738287" updateReferences="true"/>
+</session>

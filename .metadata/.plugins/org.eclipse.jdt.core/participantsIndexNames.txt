@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+D:\java25\Development Project\Java Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\460878410.index
+\My_WeatherApp\src\main\java
+D:\java25\Development Project\Java Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4010882984.index
+\MyWebCalc\src\main\java
